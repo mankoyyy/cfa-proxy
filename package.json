@@ -1,0 +1,5 @@
+{
+  "name": "cfa-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for CFA Study Portal"
+}
